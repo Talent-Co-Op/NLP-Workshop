@@ -34,8 +34,8 @@ However, if you have not worked with Python or Jupyter notebooks before, we also
 
 In order to setup the environment and run the workshop material, you'll need to:
 
-- Install Python and relevant libraries on your machine. We recommend downloading and installing [Anaconda](https://www.anaconda.com/products/distribution)
-- Download the workshop material on your machine. If you are familiar with Git, you can clone this repo. Alternatively, download a zip file with all the necessary content here.
+- Install Python and relevant libraries on your machine. We recommend downloading and installing [Anaconda](https://www.anaconda.com/products/distribution).
+- Download the workshop material on your machine. If you are familiar with Git, you can clone this repo. Alternatively, download a zip file with all the necessary content [here](https://github.com/Talent-Co-Op/NLP-Workshop/archive/refs/heads/main.zip).
 
 Please try to have everything installed before you come to the workshop.
 
