@@ -41,11 +41,12 @@ Please try to have everything installed before you come to the workshop.
 
 ## Credits
 
-The first version of this workshop was born in 2016 at a PyData London conference. Some of the content here was first created in 2019 as a joint effort between the PyData London and PyLadies London user groups, with volunteer contributions from the organisers. A big thank you to the people who have since made changes to this repo:
+The first version of this workshop was born in 2016 at a PyData London conference. Some of the content here was first created in 2019 as a joint effort between the PyData London and PyLadies London user groups, with volunteer contributions from the organisers. A big thank you to the people who have since contributed in some shape or form:
 
 - Marco Bonzanini
 - Conrad Ho
 - Renee Ho
+- kan2k
 
 
 
