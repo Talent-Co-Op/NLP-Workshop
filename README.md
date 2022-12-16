@@ -11,7 +11,7 @@ In this README document you will find:
 - Credits
 
 
-### Workshop Overview
+## Workshop Overview
 
 This workshop focuses on Natural Language Processing (NLP)- ie. how can we make a computer "understand" human text / speech, and how can we get a computer to write (generate) text / speech.
 
@@ -23,14 +23,14 @@ There will be four different sections exploring different visualizations, techni
 - Generating your own Shakespeare Play
 
 
-### Intended Audience
+## Intended Audience
 
 The main notebooks for this workshop is for people who have some basic knowledge of Python and would like to learn more about, or start a career in, data science.
 
 However, if you have not worked with Python or Jupyter notebooks before, we also have two notebooks covering that.
 
 
-### Installation and Setup Instructions
+## Installation and Setup Instructions
 
 In order to setup the environment and run the workshop material, you'll need to:
 
@@ -39,7 +39,7 @@ In order to setup the environment and run the workshop material, you'll need to:
 
 Please try to have everything installed before you come to the workshop.
 
-### Credits
+## Credits
 
 The first version of this workshop was born in 2016 at a PyData London conference. Some of the content here was first created in 2019 as a joint effort between the PyData London and PyLadies London user groups, with volunteer contributions from the organisers. Thank you to the contributors to this repo:
 
