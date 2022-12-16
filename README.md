@@ -1,4 +1,4 @@
-# NLP-Workshop
+# NLP Workshop
 
 
 This repository contains the material for a half-day workshop on data science with Python.
